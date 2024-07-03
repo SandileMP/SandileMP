@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SandileMP</h1>
-<h3 align="center">A passionate Engineer From South Africa</h3>
+<h3 align="center">Changing Lives, One Line of Code at a Time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandilemp&label=Profile%20views&color=0e75b6&style=flat" alt="sandilemp" /> </p>
 
