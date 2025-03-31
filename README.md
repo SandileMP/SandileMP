@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandilemp&label=Profile%20views&color=0e75b6&style=flat" alt="sandilemp" /> </p>
 
-- 🔭 I’m currently working on [ProbilityIO](https://obct2mnye2peemxa57rmsnteyq0xyjmi.lambda-url.eu-west-1.on.aws/)
+- 🔭 I’m currently working on [ProbilityIO](https://probility.io)
 
 - 👨‍💻 All of my projects are available at [https://soft.qntm.co.za/projects](https://soft.qntm.co.za/projects)
 
